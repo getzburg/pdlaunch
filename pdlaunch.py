@@ -1,5 +1,5 @@
-# Proxmox Desktop Launcher (pdlaunch) v0.1
-# Requires Python 3+ (was written on 3.9) and the 'requests' module
+# Proxmox Desktop Launcher
+# Requires Python 3+ (was written against 3.9) and the 'requests' module
 # Try 'pip install requests' or 'python -m pip install requests
 
 ### USER CONFIGURABLE VARIABLES ###
