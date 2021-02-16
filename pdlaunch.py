@@ -11,10 +11,10 @@ attempts = 5
 # On *nix systems this will probably be /tmp
 # On recent Windows systems this will probably be C:/Users/[your username here]/AppData/Local/Temp
 # Remember to use forward slashes for windows paths
-temp = 'C:/Users/Brad Stevenson/AppData/Local/Temp'
+temp = '/tmp'
 
 # Path to your remote-viewer executable, including the filename
-viewer = 'C:/Program Files/VirtViewer v9.0-256/bin/remote-viewer.exe'
+viewer = '/usr/bin/virt-viewer'
 
 # Start viewer in fullscreen? True/False
 fullscreen = True
