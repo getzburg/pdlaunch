@@ -61,7 +61,6 @@ def write_and_start(output,temp,viewer,fullscreen):
     viewer_start = subprocess.Popen(args)
 
 # MAIN
-
 # Check to make sure we got the right (or at least the right number of) arguments
 if len(sys.argv) == 6:
     # Make the specified number of attempts, getting a fresh ticket and CSRF token each time
